@@ -84,6 +84,7 @@ body{
             }
         .studio-foter{color:var(--primari-white-color);
             }
+        .contact-adress a{color: var(--primari-white-color);}
         .foter-adress a{color:var(--primari-white-color);}
         .foter-contact a{color:rgba(255, 255, 255, 0.6)}
         .foter-adress a:hover, .foter-adress a:focus{color: var(--accent-color);}
